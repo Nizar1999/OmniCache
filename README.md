@@ -14,8 +14,8 @@
 **Practical implications** - OmniCache enables users to have access to an anonymous and secure way for individuals to store their files as well as offering an ever-growing remote storage capacity. In addition, users that are perpetually investing resources in the network are given incentive to continue doing so. Users with unused free storage space can profit by renting the space to other peers on the network. Omnies that are granted can be used to store more files on the network.
 
 
-More information can be found in [OmniCache_Report.docx](https://github.com/Nizar1999/OmniCache/blob/main/OmniCache_Report.docx)
+More information can be found in [OmniCache_Report.docx](https://github.com/Goldenboycoder/OmniCache/blob/main/Report/OmniCache_Report.pdf)
 
 ### Contributors
-* Patrick Balian
-* Anthony Tabbal
+* Nizar1999
+* atabball
