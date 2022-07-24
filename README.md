@@ -1,7 +1,7 @@
 </br>
 <p align="center"><img align="center" src="Images/Omnicache_logo.png"></p>
 
-# Blockchain-Based Distributed Storage Solution
+# Overview
 <p align="center"><img align="center" src="Images/OmniCache_Poster.jpg"></p>
 
 ### Abstract
