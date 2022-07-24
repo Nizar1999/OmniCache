@@ -3,7 +3,6 @@
 
 ![Languages1](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)
 ![Languages2](https://img.shields.io/badge/-Solidity-grey?style=for-the-badge&logo=Solidity) 
-# *The tides of war rage on.. !*
 
 # Overview
 <p align="center"><img align="center" src="Images/OmniCache_Poster.jpg"></p>
