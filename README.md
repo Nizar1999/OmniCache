@@ -16,6 +16,6 @@
 
 [Read The Full Report](Report/OmniCache_Report.pdf)
 
-### Contributors
+# Contributors
 * Patrick Balian
 * Anthony Tabbal
