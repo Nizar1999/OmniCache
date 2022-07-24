@@ -4,7 +4,7 @@
 # Overview
 <p align="center"><img align="center" src="Images/OmniCache_Poster.jpg"></p>
 
-### Abstract
+# Abstract
 **Purpose** - This project presents an approach to provide a decentralized, scalable, fault-tolerant, and secure file storage service using Blockchain Technology.
 
 **Approach** - “OmniCache's basic premise is to share a file across a Peer-to-Peer (P2P) network and track the encryption, storage, retrieval, and contract administration using a Blockchain.  “Omnies” is the cryptocurrency transacted by lenders and renters of storage, which enables users to pay for storing files on nodes of the same network. 
