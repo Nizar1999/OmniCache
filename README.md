@@ -1,7 +1,7 @@
 </br>
 <p align="center"><img align="center" src="Images/Omnicache_logo.png"></p>
 
-# Ethereum Based Distributed Storage Solution
+# Blockchain-Based Distributed Storage Solution
 <p align="center"><img align="center" src="Images/OmniCache_Poster.jpg"></p>
 
 ### Abstract
