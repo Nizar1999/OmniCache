@@ -1,6 +1,10 @@
 </br>
 <p align="center"><img align="center" src="Images/Omnicache_logo.png"></p>
 
+![Languages1](https://img.shields.io/badge/-Python-%2303a9f4?style=for-the-badge&logo=Python)
+![Languages2](https://img.shields.io/badge/-Solidity-%2303a9f4?style=for-the-badge&logo=Solidity) 
+# *The tides of war rage on.. !*
+
 # Overview
 <p align="center"><img align="center" src="Images/OmniCache_Poster.jpg"></p>
 
