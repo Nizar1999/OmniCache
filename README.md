@@ -3,6 +3,8 @@
 
 ![Languages1](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python&logoColor=blue)
 ![Languages2](https://img.shields.io/badge/-Solidity-grey?style=for-the-badge&logo=Solidity&logoColor=blue) 
+![qt](https://img.shields.io/badge/-Qt-grey?style=for-the-badge&logo=qt&logoColor=blue) 
+![web3](https://img.shields.io/badge/-Web3.py-grey?style=for-the-badge&logo=web3.js&logoColor=blue) 
 
 # Overview
 <p align="center"><img align="center" src="Images/OmniCache_Poster.jpg"></p>
