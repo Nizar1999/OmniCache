@@ -1,7 +1,7 @@
+</br>
 <p align="center"><img align="center" src="Images/Omnicache_logo.png"></p>
 
-# Bs Computer Science Senior Project: OmniCache
-
+# Ethereum Based Distributed Storage Solution
 <p align="center"><img align="center" src="Images/OmniCache_Poster.jpg"></p>
 
 ### Abstract
